@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "886407095b38eb6a",
+        "id": "d073c90b656841e2",
         "type": "tabs",
         "children": [
           {
-            "id": "9c881d77356ab8cc",
+            "id": "67c12b266461c3b9",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/app.json",
-                "staged": false
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (app.json)"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -92,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -110,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -135,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "README.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of README"
             }
           },
           {
@@ -169,7 +174,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3cf840d783896e92",
+  "active": "67c12b266461c3b9",
   "lastOpenFiles": [
     "README.md",
     "Untitled.md"
