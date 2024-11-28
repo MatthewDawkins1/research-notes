@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d073c90b656841e2",
+        "id": "3a76e9c8a57ecbf8",
         "type": "tabs",
         "children": [
           {
-            "id": "67c12b266461c3b9",
+            "id": "f570e2df1fe1d198",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -160,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,12 +171,37 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "67c12b266461c3b9",
+  "active": "f38bfeb7e0c96260",
   "lastOpenFiles": [
+    "Daily Notes/2024-11-28.md",
+    "Meeting Notes/Testing.md",
+    "Meeting Notes/Test.md",
+    "Templates/Daily Note Template.md",
+    "Templates/Idea Template.md",
+    "Templates/Meeting Note Template.md",
+    "Templates/Resource Template.md",
+    "Meeting Notes/Initial Chat with Mahdi.md",
+    "Daily Notes/2024-11-27.md",
+    "Daily Notes/[[.md",
     "README.md",
-    "Untitled.md"
+    "2024-11-27.md",
+    "Daily Notes.md",
+    "Templates/Test Template.md",
+    "Untitled.md",
+    "Meeting Notes",
+    "Daily Notes",
+    "Research Interests.md",
+    "2024-11-28.md",
+    "Templates",
+    "4. Archive",
+    "2. Areas",
+    "3. Resources",
+    "1. Projects",
+    "0. Ideas",
+    "mphil"
   ]
 }
