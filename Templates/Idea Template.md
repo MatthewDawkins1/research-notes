@@ -1,7 +1,7 @@
 ---
 created: <% tp.file.creation_date() %>
 ---
-**Tags:** [[Ideas]]
+**Tags:** #Ideas
 
 **Key Resources:** INSERT RESOURCES
 

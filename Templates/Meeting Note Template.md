@@ -1,7 +1,7 @@
 ---
 created: <% tp.file.creation_date() %>
 ---
-**Tags:** [[Meeting Notes]]
+**Tags:** #Meeting-Notes
 
 Insert a one sentence description of the meeting. 
 

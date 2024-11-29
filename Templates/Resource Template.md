@@ -1,9 +1,17 @@
 ---
 created: <% tp.file.creation_date() %>
 ---
-**Tags:** [[Resources]]
+**Tags:** #Resources < #Review | #Discovery | #Must-Read | #Method | #Idea > < INSERT TOPIC TAGS HERE :) >
+
+*Review: Literature review papers*
+*Discovery: an interesting find that i would want to share with people*
+*Must-Read: corner stone resource for a particular area*
+*Method: a resource which contains an interesting method which i want to apply*
+*Idea: a resource which sparks an idea :)*
 
 **Link:** INSERT LINK TO RESOURCE
+
+**Year:** INSERT YEAR
 
 Short one sentence description of the resource in words you understand... <% tp.file.cursor() %>
 

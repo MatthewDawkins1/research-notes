@@ -1,4 +1,4 @@
-**Tags:** [[Daily Notes]]
+**Tags:** #Daily-Notes
 # <% moment(tp.file.title,'YYYY-MM-DD').format("dddd, MMMM DD, YYYY") %>
 
 ### What I plan to do:
