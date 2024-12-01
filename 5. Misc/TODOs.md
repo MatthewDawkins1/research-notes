@@ -1,0 +1,2 @@
+- Flesh out idea "Predict the joint distribution of a two stage stochastic programming problem using a BNN." 
+- Investigate Rohit from UNSW MDS as a potential HDR supervisor. 

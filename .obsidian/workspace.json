@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e6a8d9a036e37a6e",
+        "id": "5488853b2f0245a1",
         "type": "tabs",
         "children": [
           {
-            "id": "45d9e9ab74ebb479",
+            "id": "2ff6af79ddd19974",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Dirichlet-Process",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,11 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
             }
           },
           {
@@ -171,46 +169,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "45d9e9ab74ebb479",
+  "active": "3cf840d783896e92",
   "lastOpenFiles": [
-    "0. Ideas/Bayesian Non-Parametric Extensions of Generalised Additive Models.md",
+    "5. Misc/Summary of Research Interests.md",
+    "5. Misc/Summary of Research Interests.excalidraw.md",
+    "Excalidraw",
+    "5. Misc/Summary of Goal Job Requirements.md",
+    "5. Misc/Summary of Logistics and Monetary Requirements.md",
+    "5. Misc/TODOs.md",
+    "Research Direction.md",
+    "Daily Notes/2024-12-02.md",
+    "Daily Notes/2024-11-30.md",
     "Daily Notes/2024-11-29.md",
     "Daily Notes/2024-11-28.md",
+    "README.md",
+    "Daily Notes/2024-12-01.md",
+    "0. Ideas/Predicting Optimal Solutions to two stage Stochastic Programs using Bayesian Neural Network.md",
+    "0. Ideas/Bayesian Non-Parametric Extensions of Generalised Additive Models.md",
+    "3. Resources/Additive mixed models with approximate Dirichlet process mixtures the EM approach.md",
+    "3. Resources/Additive mixed models with Dirichlet process mixture and P-spline priors.md",
+    "3. Resources/Bayesian Nonparametrics An Alternative to Deep Learning.md",
+    "3. Resources/Dirichlet Process Mixtures of Generalized Linear Models.md",
+    "5. Misc",
+    "Untitled.canvas",
     "Meeting Notes/Call with Nathan.md",
     "Meeting Notes/Expression of Interest Meeting w' Mahdi from QUT.md",
     "Templates/Daily Note Template.md",
     "Templates/Idea Template.md",
     "Templates/Meeting Note Template.md",
     "Templates/Resource Template.md",
-    "3. Resources/Additive mixed models with approximate Dirichlet process mixtures the EM approach.md",
-    "3. Resources/Additive mixed models with Dirichlet process mixture and P-spline priors.md",
-    "3. Resources/Bayesian Nonparametrics An Alternative to Deep Learning.md",
-    "3. Resources/Dirichlet Process Mixtures of Generalized Linear Models.md",
-    "Untitled.canvas",
     "3. Resources/bin/Hannah et.al. result.png",
     "3. Resources/bin",
     "Pasted image 20241129104315.png",
-    "Research Direction.md",
-    "README.md",
     "Resources.md",
     "Bayesian Nonparametrics.md",
-    "Meeting Notes/Testing.md",
-    "Meeting Notes/Test.md",
-    "Meeting Notes/Initial Chat with Mahdi.md",
-    "Daily Notes/2024-11-27.md",
-    "Daily Notes/[[.md",
-    "2024-11-27.md",
-    "Daily Notes.md",
-    "Templates/Test Template.md",
     "Meeting Notes",
     "Daily Notes",
-    "Research Interests.md",
     "Templates",
     "4. Archive",
     "2. Areas",
     "3. Resources",
-    "1. Projects",
-    "0. Ideas",
-    "mphil"
+    "1. Projects"
   ]
 }
