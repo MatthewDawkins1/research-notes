@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5488853b2f0245a1",
+        "id": "3f804e2764988d1f",
         "type": "tabs",
         "children": [
           {
-            "id": "2ff6af79ddd19974",
+            "id": "4f446190d2e23996",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2024-12-02.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2024-12-02"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "predictive mode",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Daily Notes/2024-12-02.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2024-12-02"
             }
           },
           {
@@ -171,29 +177,30 @@
   },
   "active": "3cf840d783896e92",
   "lastOpenFiles": [
-    "5. Misc/Summary of Research Interests.md",
-    "5. Misc/Summary of Research Interests.excalidraw.md",
-    "Excalidraw",
-    "5. Misc/Summary of Goal Job Requirements.md",
-    "5. Misc/Summary of Logistics and Monetary Requirements.md",
-    "5. Misc/TODOs.md",
-    "Research Direction.md",
+    "3. Resources/AU National Science and Research Priorities.md",
+    "3. Resources/Dirichlet Process Mixtures of Generalized Linear Models.md",
+    "3. Resources/Bayesian Nonparametrics An Alternative to Deep Learning.md",
+    "3. Resources/Additive mixed models with Dirichlet process mixture and P-spline priors.md",
+    "3. Resources/Additive mixed models with approximate Dirichlet process mixtures the EM approach.md",
     "Daily Notes/2024-12-02.md",
+    "5. Misc/Summary of Research Interests.md",
+    "5. Misc/Summary of Goal Job Requirements.md",
+    "5. Misc/Summary of Research Interests.excalidraw.md",
+    "Meeting Notes/Expression of Interest Meeting w' Mahdi from QUT.md",
+    "0. Ideas/Bayesian Non-Parametric Extensions of Generalised Additive Models.md",
+    "0. Ideas/Predicting Optimal Solutions to two stage Stochastic Programs using Bayesian Neural Network.md",
+    "5. Misc/TODOs.md",
+    "Excalidraw",
+    "5. Misc/Summary of Logistics and Monetary Requirements.md",
+    "Research Direction.md",
     "Daily Notes/2024-11-30.md",
     "Daily Notes/2024-11-29.md",
     "Daily Notes/2024-11-28.md",
     "README.md",
     "Daily Notes/2024-12-01.md",
-    "0. Ideas/Predicting Optimal Solutions to two stage Stochastic Programs using Bayesian Neural Network.md",
-    "0. Ideas/Bayesian Non-Parametric Extensions of Generalised Additive Models.md",
-    "3. Resources/Additive mixed models with approximate Dirichlet process mixtures the EM approach.md",
-    "3. Resources/Additive mixed models with Dirichlet process mixture and P-spline priors.md",
-    "3. Resources/Bayesian Nonparametrics An Alternative to Deep Learning.md",
-    "3. Resources/Dirichlet Process Mixtures of Generalized Linear Models.md",
     "5. Misc",
     "Untitled.canvas",
     "Meeting Notes/Call with Nathan.md",
-    "Meeting Notes/Expression of Interest Meeting w' Mahdi from QUT.md",
     "Templates/Daily Note Template.md",
     "Templates/Idea Template.md",
     "Templates/Meeting Note Template.md",
@@ -202,7 +209,6 @@
     "3. Resources/bin",
     "Pasted image 20241129104315.png",
     "Resources.md",
-    "Bayesian Nonparametrics.md",
     "Meeting Notes",
     "Daily Notes",
     "Templates",

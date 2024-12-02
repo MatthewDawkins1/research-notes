@@ -1,7 +1,7 @@
 ---
 created: 2024-11-29 07:25
 ---
-**Tags:** #Resources #Review #Bayesian-Methods #Bayesian-Nonparametrics #Dirichlet-Process #Deep-Learning
+**Tags:** #Resources #Review #Bayesian-Methods #Bayesian-Nonparametrics #Dirichlet-Process #Machine-Learning #Deep-Learning
 
 **Link:** https://arxiv.org/abs/2404.00085
 

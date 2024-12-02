@@ -1,7 +1,7 @@
 ---
 created: 2024-11-29 13:15
 ---
-**Tags:** #Resources #Discovery #Bayesian-Methods #Bayesian-Nonparametrics #Dirichlet-Process #Predictive-Modelling #Addative-Model #Addative-Mixed-Model
+**Tags:** #Resources #Discovery #Bayesian-Methods #Bayesian-Nonparametrics #Dirichlet-Process #Machine-Learning #Addative-Model #Addative-Mixed-Model
 
 **Link:** https://link.springer.com/article/10.1007/s10182-011-0161-6
 

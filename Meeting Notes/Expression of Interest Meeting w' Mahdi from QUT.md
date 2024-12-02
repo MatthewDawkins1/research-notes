@@ -1,7 +1,7 @@
 ---
 created: 2024-11-22
 ---
-**Tags:** #Meeting-Notes #Predictive-Modelling #Descision-Optimisation #Deep-Learning 
+**Tags:** #Meeting-Notes #Machine-Learning  #Descision-Optimisation #Deep-Learning 
 
 Insert a one sentence description of the meeting. 
 

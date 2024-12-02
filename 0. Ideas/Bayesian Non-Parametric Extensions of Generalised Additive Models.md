@@ -1,7 +1,7 @@
 ---
 created: 2024-11-29 13:55
 ---
-**Tags:** #Ideas #Bayesian-Methods #Bayesian-Nonparametrics #Dirichlet-Process #Predictive-Modelling #Generalised-Addative-Model
+**Tags:** #Ideas #Bayesian-Methods #Bayesian-Nonparametrics #Dirichlet-Process #Machine-Learning #Generalised-Addative-Model
 
 **Key Resources:** 
 - [[Bayesian Nonparametrics An Alternative to Deep Learning]] Investigating BNP in the context of flexible models

@@ -1,7 +1,7 @@
 ---
 created: 2024-11-29 10:35
 ---
-**Tags:** #Resources #Discovery #Bayesian-Methods #Predictive-Modelling #Bayesian-Nonparametrics  #Dirichlet-Process #Generalised-Linear-Model
+**Tags:** #Resources #Discovery #Bayesian-Methods #Machine-Learning #Bayesian-Nonparametrics  #Dirichlet-Process #Generalised-Linear-Model
 
 **Link:** https://proceedings.mlr.press/v9/hannah10a.html
 
