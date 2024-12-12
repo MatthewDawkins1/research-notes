@@ -8,17 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6479655918af5021",
+            "id": "c112660b849098e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Daily Notes/2024-12-11.md",
-                "mode": "source",
-                "source": false
+                "file": "0. Ideas/Integrating Bayesian Causal Inference and Stochastic Programming.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "2024-12-11"
+              "icon": "excalidraw-icon",
+              "title": "Integrating Bayesian Causal Inference and Stochastic Programming.excalidraw"
             }
           }
         ]
@@ -77,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6bc651f96185999b",
@@ -175,18 +174,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6479655918af5021",
+  "active": "c112660b849098e3",
   "lastOpenFiles": [
-    "Daily Notes/2024-12-10.md",
-    "Daily Notes/2024-12-11.md",
-    "Daily Notes/2024-12-09.md",
     "0. Ideas/Integrating Bayesian Causal Inference and Stochastic Programming.md",
+    "0. Ideas/Integrating Bayesian Causal Inference and Stochastic Programming.excalidraw.md",
+    "Excalidraw",
+    "0. Ideas/Predicting Optimal Solutions to two stage Stochastic Programs using Bayesian Neural Network.md",
+    "Daily Notes/2024-12-11.md",
+    "Daily Notes/2024-12-12.md",
+    "5. Misc/Summary of Goal Job Requirements.md",
+    "5. Misc/Summary of Research Interests.excalidraw.md",
+    "5. Misc/Summary of Research Interests.md",
+    "5. Misc/Summary of Observed limitations in industry Data Science.md",
+    "README.md",
+    "Daily Notes/2024-12-10.md",
+    "Daily Notes/2024-12-09.md",
     "Daily Notes/2024-12-06.md",
     "Daily Notes/2024-12-07.md",
     "Daily Notes/2024-12-04.md",
     "Daily Notes/2024-12-08.md",
     "3. Resources/Causal Inference with Latent Variables Recent Advancesand Future Prospectives.md",
-    "0. Ideas/Predicting Optimal Solutions to two stage Stochastic Programs using Bayesian Neural Network.md",
     "3. Resources/Bayesian causal inference a critical review.md",
     "3. Resources/Causal Inference Meets Deep Learning A Comprehensive Survey.md",
     "3. Resources/Dirichlet Process Mixtures of Generalized Linear Models.md",
@@ -195,17 +202,9 @@
     "3. Resources/Applied Machine Learning and Deep Learning Architectures and Techniques.md",
     "3. Resources/Additive mixed models with Dirichlet process mixture and P-spline priors.md",
     "3. Resources/Additive mixed models with approximate Dirichlet process mixtures the EM approach.md",
-    "5. Misc/Summary of Observed limitations in industry Data Science.md",
-    "5. Misc/Summary of Goal Job Requirements.md",
     "Daily Notes/2024-12-05.md",
-    "5. Misc/Summary of Research Interests.md",
-    "Daily Notes/2024-12-03.md",
-    "Daily Notes/2024-12-02.md",
-    "bin/Applied.md",
     "bin",
     "3. Resources/bin/Applied ml screenshot.png",
-    "().md",
-    "Excalidraw",
     "5. Misc",
     "Untitled.canvas",
     "3. Resources/bin/Hannah et.al. result.png",

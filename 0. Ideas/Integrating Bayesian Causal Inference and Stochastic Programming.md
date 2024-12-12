@@ -7,8 +7,7 @@
 ### Integrating Bayesian Causal Models and Stochastic Programming for Explainable Decision Making under Uncertainty
 
 
-
-
+![[0. Ideas/Integrating Bayesian Causal Inference and Stochastic Programming.excalidraw]]
 
 Limitations of using a causal model in a decision making context.
 
